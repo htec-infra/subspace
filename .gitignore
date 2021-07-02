@@ -20,3 +20,5 @@ bindata.go
 
 # User Specific
 .vscode/
+.idea/
+*.iml
